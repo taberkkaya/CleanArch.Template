@@ -94,25 +94,24 @@ This template leverages the following frameworks and libraries:
 
 ✔️ Scalable DI setup via Scrutor
 
-## 🧠 Inspired By
-
-This project was implemented by following the tutorial series by _[Taner Saydam](https://www.youtube.com/watch?v=byiN2UZXXJQ&t=6247s)_ on YouTube.
-
-### 📺 Taner Saydam Clean Architecture Series
-
-Credits to Taner for the awesome series that laid the foundation for this template.
-
 ---
 
 ### ✨ Contribution
 
-Feel free to fork this repository and contribute your improvements.
+> Feel free to fork this repository and contribute your improvements.
 
 ---
 
 ### 🪪 License
 
-This project is open-source and available under the MIT License.
+> This project is open-source and available under the MIT License.
+
+---
+
+### 🧠 Inspired By
+
+> This project is inspired by the work of [Taner Saydam](https://github.com/TanerSaydam).  
+> Check out his GitHub profile and repositories for more: https://github.com/TanerSaydam
 
 ---
 

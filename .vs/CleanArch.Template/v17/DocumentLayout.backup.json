@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\ProjectCollection\\CleanArch.Template\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{55AC2C63-C77A-4CFB-B795-2E20E7043335}|src\\CleanArch.WebApi\\CleanArch.WebApi.csproj|c:\\projectcollection\\cleanarch.template\\src\\cleanarch.webapi\\extensionsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AC2C63-C77A-4CFB-B795-2E20E7043335}|src\\CleanArch.WebApi\\CleanArch.WebApi.csproj|solutionrelative:src\\cleanarch.webapi\\extensionsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AC2C63-C77A-4CFB-B795-2E20E7043335}|src\\CleanArch.WebApi\\CleanArch.WebApi.csproj|c:\\projectcollection\\cleanarch.template\\src\\cleanarch.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AC2C63-C77A-4CFB-B795-2E20E7043335}|src\\CleanArch.WebApi\\CleanArch.WebApi.csproj|solutionrelative:src\\cleanarch.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExtensionsMiddleware.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.WebApi\\ExtensionsMiddleware.cs",
-              "RelativeDocumentMoniker": "src\\CleanArch.WebApi\\ExtensionsMiddleware.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.WebApi\\ExtensionsMiddleware.cs",
-              "RelativeToolTip": "src\\CleanArch.WebApi\\ExtensionsMiddleware.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T19:31:28.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\CleanArch.WebApi\\Program.cs",
-              "ToolTip": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.WebApi\\Program.cs",
-              "RelativeToolTip": "src\\CleanArch.WebApi\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T19:30:26.433Z",
-              "EditorCaption": ""
             }
           ]
         }
