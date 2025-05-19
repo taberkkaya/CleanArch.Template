@@ -18,6 +18,7 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.ServiceDefaults\o
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.ServiceDefaults\obj\Debug\net9.0\CleanArch.Template.ServiceDefaults.AssemblyInfoInputs.cache
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.ServiceDefaults\obj\Debug\net9.0\CleanArch.Template.ServiceDefaults.AssemblyInfo.cs
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.ServiceDefaults\obj\Debug\net9.0\CleanArch.Template.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.ServiceDefaults\obj\Debug\net9.0\CleanArch.Template.ServiceDefaults.sourcelink.json
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.ServiceDefaults\obj\Debug\net9.0\CleanArch.Template.ServiceDefaults.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.ServiceDefaults\obj\Debug\net9.0\refint\CleanArch.Template.ServiceDefaults.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.ServiceDefaults\obj\Debug\net9.0\CleanArch.Template.ServiceDefaults.pdb

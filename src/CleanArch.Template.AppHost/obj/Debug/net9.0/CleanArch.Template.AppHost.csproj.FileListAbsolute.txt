@@ -104,6 +104,7 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.AppHost\obj\Debug
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.AppHost\obj\Debug\net9.0\CleanArch.Template.AppHost.csproj.CoreCompileInputs.cache
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.AppHost\obj\Debug\net9.0\Aspire\references\CleanArch_WebApi.ProjectMetadata.g.cs
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.AppHost\obj\Debug\net9.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.AppHost\obj\Debug\net9.0\CleanArch.Template.AppHost.sourcelink.json
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.AppHost\obj\Debug\net9.0\CleanArc.0AB64371.Up2Date
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.AppHost\obj\Debug\net9.0\CleanArch.Template.AppHost.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.AppHost\obj\Debug\net9.0\refint\CleanArch.Template.AppHost.dll

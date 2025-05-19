@@ -18,6 +18,7 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.Domain\obj\Debug\net9.0\Cl
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Domain\obj\Debug\net9.0\CleanArch.Domain.AssemblyInfoInputs.cache
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Domain\obj\Debug\net9.0\CleanArch.Domain.AssemblyInfo.cs
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Domain\obj\Debug\net9.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.Domain\obj\Debug\net9.0\CleanArch.Domain.sourcelink.json
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Domain\obj\Debug\net9.0\CleanArch.Domain.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Domain\obj\Debug\net9.0\refint\CleanArch.Domain.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Domain\obj\Debug\net9.0\CleanArch.Domain.pdb

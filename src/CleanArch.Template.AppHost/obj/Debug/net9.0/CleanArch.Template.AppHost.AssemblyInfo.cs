@@ -25,7 +25,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArch.Template.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a853df6c75a0600fbd1839a9caf8414d54e5f26")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArch.Template.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArch.Template.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

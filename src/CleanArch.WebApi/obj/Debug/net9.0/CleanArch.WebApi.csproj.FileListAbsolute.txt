@@ -237,6 +237,9 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Ma
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Mapster.Core.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\MediatR.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OData.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -265,6 +268,8 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Mi
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Http.Diagnostics.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Http.Resilience.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
@@ -415,6 +420,7 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\Cl
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\CleanArch.WebApi.csproj.CoreCompileInputs.cache
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\CleanArch.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\CleanArch.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\CleanArch.WebApi.sourcelink.json
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\scopedcss\bundle\CleanArch.WebApi.styles.css
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\staticwebassets.build.json
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\staticwebassets.development.json

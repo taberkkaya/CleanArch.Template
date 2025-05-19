@@ -6,7 +6,7 @@ public class Entity
 
     public Entity()
     {
-        Id = Guid.NewGuid();
+        Id = Guid.CreateVersion7();
     }
 
     public DateTimeOffset CreatedAt { get; set; } = default!;

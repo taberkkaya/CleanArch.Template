@@ -44,7 +44,7 @@ Edit the appsettings.json file in the CleanArch.WebApi project:
 
 ```json
 "ConnectionStrings": {
-  "ConnectionString": "Your-SQL-Server-Connection-String-Here"
+  "SqlServer": "Your-SQL-Server-Connection-String-Here"
 }
 ```
 

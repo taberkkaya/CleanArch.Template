@@ -23,6 +23,7 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.Application\obj\Debug\net9
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Application\obj\Debug\net9.0\CleanArch.Application.AssemblyInfoInputs.cache
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Application\obj\Debug\net9.0\CleanArch.Application.AssemblyInfo.cs
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Application\obj\Debug\net9.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.Application\obj\Debug\net9.0\CleanArch.Application.sourcelink.json
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Application\obj\Debug\net9.0\CleanArc.054EF71E.Up2Date
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Application\obj\Debug\net9.0\CleanArch.Application.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Application\obj\Debug\net9.0\refint\CleanArch.Application.dll

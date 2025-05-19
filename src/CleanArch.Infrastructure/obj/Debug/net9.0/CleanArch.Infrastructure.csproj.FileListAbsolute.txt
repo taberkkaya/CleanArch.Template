@@ -30,6 +30,7 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.Infrastructure\obj\Debug\n
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Infrastructure\obj\Debug\net9.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Infrastructure\obj\Debug\net9.0\CleanArch.Infrastructure.AssemblyInfo.cs
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Infrastructure\obj\Debug\net9.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.Infrastructure\obj\Debug\net9.0\CleanArch.Infrastructure.sourcelink.json
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Infrastructure\obj\Debug\net9.0\CleanArc.9B8778E9.Up2Date
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Infrastructure\obj\Debug\net9.0\CleanArch.Infrastructure.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.Infrastructure\obj\Debug\net9.0\refint\CleanArch.Infrastructure.dll

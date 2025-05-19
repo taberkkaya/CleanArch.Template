@@ -10,5 +10,5 @@ public sealed class Employee : Entity
     public decimal Salary { get; set; }
     public DateOnly DateOfBirth { get; set; }
     public PersonalInfo PersonalInfo { get; set; } = default!;
-    public Address? Address { get; set; } = default!;
+    public Address Address { get; set; } = default!;
 }
