@@ -2907,9 +2907,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.AppHost\\CleanArch.Template.AppHost.csproj",
-      "projectName": "CleanArch.Template.AppHost",
-      "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.AppHost\\CleanArch.Template.AppHost.csproj",
+      "projectUniqueName": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.AppHost\\CleanArch.AppHost.csproj",
+      "projectName": "CleanArch.AppHost",
+      "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.AppHost\\CleanArch.AppHost.csproj",
       "packagesPath": "C:\\Users\\ataberk\\.nuget\\packages\\",
       "outputPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.AppHost\\obj\\",
       "projectStyle": "PackageReference",

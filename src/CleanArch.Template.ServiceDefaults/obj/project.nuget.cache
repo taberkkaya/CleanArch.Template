@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mhwKlAoHLh0=",
+  "dgSpecHash": "4lhUXP1er5A=",
   "success": true,
-  "projectFilePath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj",
+  "projectFilePath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataberk\\.nuget\\packages\\google.protobuf\\3.22.5\\google.protobuf.3.22.5.nupkg.sha512",
     "C:\\Users\\ataberk\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",

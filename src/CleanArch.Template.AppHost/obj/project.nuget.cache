@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "welYzKuRvic=",
+  "dgSpecHash": "wfCTyKPMG+E=",
   "success": true,
-  "projectFilePath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.AppHost\\CleanArch.Template.AppHost.csproj",
+  "projectFilePath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.AppHost\\CleanArch.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataberk\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\aspire.dashboard.sdk.win-x64.9.0.0.nupkg.sha512",
     "C:\\Users\\ataberk\\.nuget\\packages\\aspire.hosting\\9.0.0\\aspire.hosting.9.0.0.nupkg.sha512",

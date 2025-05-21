@@ -5,8 +5,8 @@ namespace Projects;
 [global::System.CodeDom.Compiler.GeneratedCode("Aspire.Hosting", null)]
 [global::System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverage(Justification = "Generated code.")]
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
-public class CleanArch_Template_AppHost
+public class CleanArch_AppHost
 {
-    private CleanArch_Template_AppHost() { }
+    private CleanArch_AppHost() { }
     public static string ProjectPath => """C:\ProjectCollection\CleanArch.Template\src\CleanArch.Template.AppHost""";
 }

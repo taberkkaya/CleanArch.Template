@@ -273,12 +273,12 @@
         }
       }
     },
-    "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj": {
+    "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj",
-        "projectName": "CleanArch.Template.ServiceDefaults",
-        "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj",
+        "projectUniqueName": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj",
+        "projectName": "CleanArch.ServiceDefaults",
+        "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\ataberk\\.nuget\\packages\\",
         "outputPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
@@ -405,8 +405,8 @@
               "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj": {
                 "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj"
               },
-              "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj": {
-                "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj"
+              "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj": {
+                "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj"
               }
             }
           }

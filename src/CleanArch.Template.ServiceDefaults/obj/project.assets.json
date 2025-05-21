@@ -2159,9 +2159,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj",
-      "projectName": "CleanArch.Template.ServiceDefaults",
-      "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj",
+      "projectUniqueName": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj",
+      "projectName": "CleanArch.ServiceDefaults",
+      "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj",
       "packagesPath": "C:\\Users\\ataberk\\.nuget\\packages\\",
       "outputPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\obj\\",
       "projectStyle": "PackageReference",

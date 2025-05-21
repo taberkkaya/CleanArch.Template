@@ -2964,7 +2964,7 @@
           "bin/placeholder/CleanArch.Infrastructure.dll": {}
         }
       },
-      "CleanArch.Template.ServiceDefaults/1.0.0": {
+      "CleanArch.ServiceDefaults/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
@@ -2977,10 +2977,10 @@
           "OpenTelemetry.Instrumentation.Runtime": "1.9.0"
         },
         "compile": {
-          "bin/placeholder/CleanArch.Template.ServiceDefaults.dll": {}
+          "bin/placeholder/CleanArch.ServiceDefaults.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CleanArch.Template.ServiceDefaults.dll": {}
+          "bin/placeholder/CleanArch.ServiceDefaults.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -7508,17 +7508,17 @@
       "path": "../CleanArch.Infrastructure/CleanArch.Infrastructure.csproj",
       "msbuildProject": "../CleanArch.Infrastructure/CleanArch.Infrastructure.csproj"
     },
-    "CleanArch.Template.ServiceDefaults/1.0.0": {
+    "CleanArch.ServiceDefaults/1.0.0": {
       "type": "project",
-      "path": "../CleanArch.Template.ServiceDefaults/CleanArch.Template.ServiceDefaults.csproj",
-      "msbuildProject": "../CleanArch.Template.ServiceDefaults/CleanArch.Template.ServiceDefaults.csproj"
+      "path": "../CleanArch.Template.ServiceDefaults/CleanArch.ServiceDefaults.csproj",
+      "msbuildProject": "../CleanArch.Template.ServiceDefaults/CleanArch.ServiceDefaults.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "CleanArch.Application >= 1.0.0",
       "CleanArch.Infrastructure >= 1.0.0",
-      "CleanArch.Template.ServiceDefaults >= 1.0.0",
+      "CleanArch.ServiceDefaults >= 1.0.0",
       "Microsoft.AspNetCore.OData >= 9.3.1",
       "Microsoft.AspNetCore.OpenApi >= 9.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.5",
@@ -7563,8 +7563,8 @@
             "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj": {
               "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Infrastructure\\CleanArch.Infrastructure.csproj"
             },
-            "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj": {
-              "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.Template.ServiceDefaults.csproj"
+            "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj": {
+              "projectPath": "C:\\ProjectCollection\\CleanArch.Template\\src\\CleanArch.Template.ServiceDefaults\\CleanArch.ServiceDefaults.csproj"
             }
           }
         }

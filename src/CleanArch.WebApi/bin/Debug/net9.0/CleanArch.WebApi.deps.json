@@ -10,7 +10,7 @@
         "dependencies": {
           "CleanArch.Application": "1.0.0",
           "CleanArch.Infrastructure": "1.0.0",
-          "CleanArch.Template.ServiceDefaults": "1.0.0",
+          "CleanArch.ServiceDefaults": "1.0.0",
           "Microsoft.AspNetCore.OData": "9.3.1",
           "Microsoft.AspNetCore.OpenApi": "9.0.5",
           "Microsoft.EntityFrameworkCore.Design": "9.0.5",
@@ -1794,7 +1794,7 @@
           }
         }
       },
-      "CleanArch.Template.ServiceDefaults/1.0.0": {
+      "CleanArch.ServiceDefaults/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Http.Resilience": "9.0.0",
           "Microsoft.Extensions.ServiceDiscovery": "9.0.0",
@@ -1805,7 +1805,7 @@
           "OpenTelemetry.Instrumentation.Runtime": "1.9.0"
         },
         "runtime": {
-          "CleanArch.Template.ServiceDefaults.dll": {
+          "CleanArch.ServiceDefaults.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -2884,7 +2884,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CleanArch.Template.ServiceDefaults/1.0.0": {
+    "CleanArch.ServiceDefaults/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
