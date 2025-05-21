@@ -9,8 +9,8 @@ using Microsoft.OData.ModelBuilder;
 namespace CleanArch.WebApi.Controller;
 
 [Route("odata")]
-[EnableQuery]
 [ApiController]
+[EnableQuery]
 public class AppODataController(
     ISender sender
     ) : ODataController

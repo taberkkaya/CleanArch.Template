@@ -1,6 +1,11 @@
-﻿using CleanArch.Domain.Users;
+﻿using CleanArch.Application.Services;
+using CleanArch.Domain.Options;
+using CleanArch.Domain.Users;
 using CleanArch.Infrastructure.Context;
+using CleanArch.Infrastructure.Options;
+using CleanArch.Infrastructure.Service;
 using GenericRepository;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -34,6 +39,16 @@ public static class InfrastructureRegistrar
         })
             .AddEntityFrameworkStores<ApplicationDbContext>()
             .AddDefaultTokenProviders();
+
+        services.Configure<JwtOptions>(configuration.GetSection("Jwt"));
+        services.ConfigureOptions<JwtOptionsSetup>();
+
+        services.AddAuthentication(options =>
+        {
+            options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+            options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+        }).AddJwtBearer();
+        services.AddAuthorization();
 
         services.AddScoped<IUnitOfWork>(srv => srv.GetRequiredService<ApplicationDbContext>());
 

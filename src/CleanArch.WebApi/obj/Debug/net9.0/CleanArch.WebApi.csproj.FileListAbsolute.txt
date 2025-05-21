@@ -307,7 +307,6 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Op
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Polly.Core.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Polly.Extensions.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Polly.RateLimiting.dll
-C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\GenericRepository.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\ResultKit.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Scalar.AspNetCore.dll
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Scrutor.dll
@@ -438,3 +437,9 @@ C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\re
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\CleanArch.WebApi.pdb
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\CleanArch.WebApi.genruntimeconfig.cache
 C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\obj\Debug\net9.0\ref\CleanArch.WebApi.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\RepositoryKit.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Keycloak.AuthServices.Authentication.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Keycloak.AuthServices.Common.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\ProjectCollection\CleanArch.Template\src\CleanArch.WebApi\bin\Debug\net9.0\Keycloak.AuthServices.Authorization.dll

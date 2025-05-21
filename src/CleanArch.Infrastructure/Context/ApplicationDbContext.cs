@@ -2,6 +2,7 @@
 using CleanArch.Domain.Employees;
 using CleanArch.Domain.Users;
 using GenericRepository;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -30,22 +31,41 @@ internal sealed class ApplicationDbContext : IdentityDbContext<AppUser, Identity
     {
         var entries = ChangeTracker.Entries<Entity>();
 
+        HttpContextAccessor httpContextAccessor = new();
+        Guid userId = Guid.Parse(httpContextAccessor
+            .HttpContext!
+            .User
+            .Claims
+            .First(p => p.Type == "user-id").Value);
+
         foreach (var entry in entries)
         {
             if (entry.State == EntityState.Added)
+            {
                 entry.Property(p => p.CreatedAt)
                     .CurrentValue = DateTimeOffset.Now;
+                entry.Property(p => p.CreatedBy)
+                    .CurrentValue = userId;
+            }
 
             if (entry.State == EntityState.Modified)
             {
 
                 if (entry.Property(p => p.IsDeleted).CurrentValue == true)
+                {
                     entry.Property(p => p.DeletedAt)
                         .CurrentValue = DateTimeOffset.Now;
+                    entry.Property(p => p.DeletedBy)
+                        .CurrentValue = userId;
+                }
 
                 else
+                {
                     entry.Property(p => p.UpdatedAt)
                         .CurrentValue = DateTimeOffset.Now;
+                    entry.Property(p => p.UpdatedBy)
+                        .CurrentValue = userId;
+                }
             }
 
             if (entry.State == EntityState.Deleted)

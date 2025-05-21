@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Ataberk Kaya",
+  "classifications": ["Web", "API", "Clean Architecture"],
+  "name": "Clean Architecture Template",
+  "identity": "CleanArch.Template",
+  "shortName": "cleanArch",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CleanArch.Template",
+
+  "preferNameDirectory": true,
+  "symbols": {
+    "Framework": {
+      "type": "parameter",
+      "datatype": "choice",
+      "choices": [
+        { "choice": "net9.0", "description": ".NET 9.0" },
+        { "choice": "net8.0", "description": ".NET 8.0" }
+      ],
+      "defaultValue": "net9.0",
+      "replaces": "net9.0"
+    }
+  }
+}

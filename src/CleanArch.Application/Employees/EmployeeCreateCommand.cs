@@ -5,8 +5,6 @@ using Mapster;
 using MediatR;
 using ResultKit;
 
-
-
 namespace CleanArch.Application.Employees;
 
 public sealed record EmployeeCreateCommand(
@@ -15,7 +13,8 @@ public sealed record EmployeeCreateCommand(
     decimal Salary,
     DateOnly BirthOfDate,
     PersonalInfo PersonalInfo,
-    Address? Address
+    Address? Address,
+    bool isActive
     ) : IRequest<Result<string>>;
 
 public sealed class EmployeeCreateCommandValidator : AbstractValidator<EmployeeCreateCommand>

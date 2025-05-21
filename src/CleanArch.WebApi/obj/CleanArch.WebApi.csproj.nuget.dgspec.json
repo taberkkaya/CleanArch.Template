@@ -69,7 +69,7 @@
             },
             "ResultKit": {
               "target": "Package",
-              "version": "[2.0.1, )"
+              "version": "[2.0.9, )"
             }
           },
           "imports": [
@@ -139,13 +139,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.5, )"
             },
             "RepositoryKit": {
               "target": "Package",
-              "version": "[2.0.2, )"
+              "version": "[2.0.9, )"
             }
           },
           "imports": [
@@ -222,6 +226,18 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Keycloak.AuthServices.Authentication": {
+              "target": "Package",
+              "version": "[2.6.1, )"
+            },
+            "Keycloak.AuthServices.Authorization": {
+              "target": "Package",
+              "version": "[2.6.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.5, )"

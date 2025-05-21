@@ -1,4 +1,5 @@
-﻿using CleanArch.Domain.Users;
+﻿using CleanArch.Application.Services;
+using CleanArch.Domain.Users;
 using MediatR;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -17,7 +18,8 @@ public sealed record LoginCommandResponse
 
 internal sealed class LoginCommandHandler(
     UserManager<AppUser> userManager,
-    SignInManager<AppUser> signInManager
+    SignInManager<AppUser> signInManager,
+    IJwtProvider jwtProvider
     ) : IRequestHandler<LoginCommand, Result<LoginCommandResponse>>
 {
     public async Task<Result<LoginCommandResponse>> Handle(LoginCommand request, CancellationToken cancellationToken)
@@ -49,7 +51,9 @@ internal sealed class LoginCommandHandler(
             return (500, "Wrong password!");
         }
 
-        var response = new LoginCommandResponse() { AccessToken = string.Empty };
+        var token = await jwtProvider.CreateTokenAsync(user, request.Password, cancellationToken);
+
+        var response = new LoginCommandResponse() { AccessToken = token };
 
         return response;
     }
