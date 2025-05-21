@@ -1,0 +1,48 @@
+## Build output
+bin/
+obj/
+nupkgs/
+*.nupkg
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+
+## Rider files
+.idea/
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## User-specific files
+*.user
+*.rsuser
+*.sln.docstates
+
+## NuGet stuff
+.nuget/
+*.nupkg
+nuget.exe
+
+## Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.template.config/
+
+## Template pack artifacts
+*.generated.cs
+*.g.cs
+*.AssemblyAttributes.cs
+
+## Other
+*.bak
+*.tmp
+
+# Optional: VS Code settings
+.vscode/

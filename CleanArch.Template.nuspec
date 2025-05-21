@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CleanArch.StarterKit</id>
+    <version>1.0.2</version>
+    <description>A clean architecture template for .NET applications</description>
+    <authors>ataberk</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <license type="file">LICENSE.txt</license>
+    <readme>README.md</readme>
+    <icon>logo64x64.png</icon>
+  </metadata>
+  <files>
+    <!-- Tüm dosyaları ekle, ancak LICENSE.txt, README.md ve logo64x64.png hariç (çünkü onları ayrıca ekliyoruz) -->
+    <file src="**\*" 
+          exclude="**\bin\**;**\obj\**;**\.vs\**;**\.git\**;**\*.nupkg;**\LICENSE.txt;**\README.md;**\logo64x64.png" />
+    
+    <!-- Özel dosyaları manuel olarak ekle -->
+    <file src="LICENSE.txt" target="" />
+    <file src="README.md" target="" />
+    <file src="assets\logo64x64.png" target="" />
+  </files>
+</package>

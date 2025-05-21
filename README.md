@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="CleanArch.Template Logo" width="200"/>
 </p>
 
-<h1 align="center">CleanArch.Template</h1>
+<h1 align="center">CleanArch.StarterKit</h1>
 
 <p align="center">
   🧱 A clean, scalable and modular .NET Web API template built using Clean Architecture principles.
@@ -29,7 +29,15 @@ This template follows the Clean Architecture structure:
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Installation
+
+To install the template locally, run:
+
+```bash
+dotnet new install CleanArch.StarterKit
+```
+
+## 🚀 Clone Repository
 
 ### 1. Clone the repository
 
